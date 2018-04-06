@@ -19,3 +19,86 @@
 2018-04-05 20:38:46.844783|rVoL|Start Memory Password: feel-able-38
 2018-04-05 20:38:54.672127|rVoL|Passed Memory Password: T'feel-able-38' == F'feel-able-38'
 2018-04-05 20:38:56.023035|rVoL|Completed Test
+2018-04-05 23:24:04.085334|rVoL|Failed Check Password: man-way-11
+2018-04-05 23:24:05.063105|rVoL|Failed Check Password: man-way-11
+2018-04-05 23:24:05.564355|rVoL|Failed Check Password: man-way-11
+2018-04-06 12:35:11.921265|6QYl|Passed Check Password: small-mr-14
+2018-04-06 12:35:22.157027|6QYl|Passed Check Password: life-country-26
+2018-04-06 12:35:45.041988|6QYl|Passed Check Password: leave-program-43
+2018-04-06 12:35:48.171455|6QYl|Start Memory Password: leave-program-43
+2018-04-06 12:35:58.767596|6QYl|Failed Memory Password: T'leave-program-43' == F'mr-small-14'
+2018-04-06 12:36:01.922033|6QYl|Start Memory Password: leave-program-43
+2018-04-06 12:36:07.667709|6QYl|Failed Memory Password: T'leave-program-43' == F'sm--small-14'
+2018-04-06 12:36:13.290578|6QYl|Start Memory Password: leave-program-43
+2018-04-06 12:36:41.653115|6QYl|Failed Memory Password: T'leave-program-43' == F'mr-small-14'
+2018-04-06 12:36:48.041520|6QYl|Start Memory Password: life-country-26
+2018-04-06 12:36:51.301308|6QYl|Failed Memory Password: T'life-country-26' == F'mr-small-14'
+2018-04-06 12:36:55.350618|6QYl|Start Memory Password: life-country-26
+2018-04-06 12:36:59.397676|6QYl|Failed Memory Password: T'life-country-26' == F'mr-small-14'
+2018-04-06 12:37:02.203802|6QYl|Start Memory Password: life-country-26
+2018-04-06 12:37:05.503430|6QYl|Failed Memory Password: T'life-country-26' == F'mr-small-14'
+2018-04-06 12:37:09.867019|6QYl|Start Memory Password: small-mr-14
+2018-04-06 12:37:13.805963|6QYl|Failed Memory Password: T'small-mr-14' == F'mr-small-14'
+2018-04-06 12:37:17.867026|6QYl|Start Memory Password: small-mr-14
+2018-04-06 12:37:20.828166|6QYl|Failed Memory Password: T'small-mr-14' == F'mr-small-14'
+2018-04-06 12:37:23.607825|6QYl|Start Memory Password: small-mr-14
+2018-04-06 12:37:27.732028|6QYl|Failed Memory Password: T'small-mr-14' == F'mr-small-14'
+2018-04-06 12:37:33.504990|6QYl|Completed Test
+2018-04-06 12:56:24.656086|1234|Passed Check Password: like-clear-52
+2018-04-06 12:56:38.267479|1234|Passed Check Password: best-little-21
+2018-04-06 12:56:52.151533|1234|Passed Check Password: able-day-85
+2018-04-06 12:56:58.407690|1234|Start Memory Password: able-day-85
+2018-04-06 12:57:09.177301|1234|Failed Memory Password: T'able-day-85' == F'best-able-21'
+2018-04-06 12:57:32.042780|1234|Start Memory Password: able-day-85
+2018-04-06 12:58:02.726999|1234|Failed Memory Password: T'able-day-85' == F'best-clear-21'
+2018-04-06 12:58:13.242439|1234|Start Memory Password: able-day-85
+2018-04-06 12:58:13.371961|1234|Failed Memory Password: T'able-day-85' == F''
+2018-04-06 12:58:27.783360|1234|Start Memory Password: best-little-21
+2018-04-06 12:58:39.216763|1234|Failed Memory Password: T'best-little-21' == F'best-able-21'
+2018-04-06 12:58:46.152803|1234|Start Memory Password: best-little-21
+2018-04-06 12:58:56.808670|1234|Failed Memory Password: T'best-little-21' == F'clear-best-21'
+2018-04-06 12:59:04.586029|1234|Start Memory Password: best-little-21
+2018-04-06 12:59:13.191630|1234|Failed Memory Password: T'best-little-21' == F'best-able-43'
+2018-04-06 12:59:16.886404|1234|Start Memory Password: like-clear-52
+2018-04-06 12:59:26.677223|1234|Failed Memory Password: T'like-clear-52' == F'best-able-21'
+2018-04-06 12:59:33.386039|1234|Start Memory Password: like-clear-52
+2018-04-06 12:59:39.903746|1234|Failed Memory Password: T'like-clear-52' == F'best-able-21'
+2018-04-06 12:59:48.199169|1234|Start Memory Password: like-clear-52
+2018-04-06 12:59:49.544992|1234|Failed Memory Password: T'like-clear-52' == F''
+2018-04-06 12:59:52.665738|1234|Completed Test
+2018-04-06 13:11:28.045544|nBRw|Passed Check Password: economic-should-28
+2018-04-06 13:11:34.145520|nBRw|Passed Check Password: seem-part-6
+2018-04-06 13:11:39.023627|nBRw|Passed Check Password: go-book-24
+2018-04-06 13:11:42.431087|nBRw|Start Memory Password: go-book-24
+2018-04-06 13:11:53.384859|nBRw|Failed Memory Password: T'go-book-24' == F'pied-piper024'
+2018-04-06 13:11:58.387928|nBRw|Start Memory Password: go-book-24
+2018-04-06 13:12:04.594742|nBRw|Failed Memory Password: T'go-book-24' == F'pied-piper-24'
+2018-04-06 13:12:05.325962|nBRw|Start Memory Password: go-book-24
+2018-04-06 13:12:05.847601|nBRw|Failed Memory Password: T'go-book-24' == F''
+2018-04-06 13:12:07.734061|nBRw|Start Memory Password: seem-part-6
+2018-04-06 13:12:18.580577|nBRw|Failed Memory Password: T'seem-part-6' == F'economic-should-28'
+2018-04-06 13:12:19.419740|nBRw|Start Memory Password: seem-part-6
+2018-04-06 13:12:19.759714|nBRw|Failed Memory Password: T'seem-part-6' == F''
+2018-04-06 13:12:20.123398|nBRw|Start Memory Password: seem-part-6
+2018-04-06 13:12:20.487340|nBRw|Failed Memory Password: T'seem-part-6' == F''
+2018-04-06 13:12:21.495984|nBRw|Start Memory Password: economic-should-28
+2018-04-06 13:12:27.675708|nBRw|Passed Memory Password: T'economic-should-28' == F'economic-should-28'
+2018-04-06 13:12:29.861886|nBRw|Completed Test
+2018-04-06 13:15:58.439544|sRvO|Passed Check Password: case-find-41
+2018-04-06 13:16:06.242494|sRvO|Passed Check Password: talk-number-97
+2018-04-06 13:16:13.249912|sRvO|Passed Check Password: will-talk-65
+2018-04-06 13:16:17.425767|sRvO|Start Memory Password: talk-number-97
+2018-04-06 13:16:51.682794|sRvO|Failed Memory Password: T'talk-number-97' == F'case-number-46'
+2018-04-06 13:17:00.454592|sRvO|Start Memory Password: talk-number-97
+2018-04-06 13:17:28.857567|sRvO|Failed Memory Password: T'talk-number-97' == F'find-book-41'
+2018-04-06 13:17:46.791565|sRvO|Start Memory Password: talk-number-97
+2018-04-06 13:17:55.442612|sRvO|Failed Memory Password: T'talk-number-97' == F'find-case-41'
+2018-04-06 13:18:12.005806|sRvO|Start Memory Password: case-find-41
+2018-04-06 13:18:47.980747|sRvO|Passed Memory Password: T'case-find-41' == F'case-find-41'
+2018-04-06 13:18:56.038391|sRvO|Start Memory Password: will-talk-65
+2018-04-06 13:19:22.424912|sRvO|Failed Memory Password: T'will-talk-65' == F'book-number-65'
+2018-04-06 13:19:25.796237|sRvO|Start Memory Password: will-talk-65
+2018-04-06 13:19:37.424896|sRvO|Failed Memory Password: T'will-talk-65' == F'book-number-65'
+2018-04-06 13:19:53.017176|sRvO|Start Memory Password: will-talk-65
+2018-04-06 13:20:04.657802|sRvO|Failed Memory Password: T'will-talk-65' == F'case-find-41'
+2018-04-06 13:20:10.653602|sRvO|Completed Test
