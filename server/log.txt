@@ -102,3 +102,102 @@
 2018-04-06 13:19:53.017176|sRvO|Start Memory Password: will-talk-65
 2018-04-06 13:20:04.657802|sRvO|Failed Memory Password: T'will-talk-65' == F'case-find-41'
 2018-04-06 13:20:10.653602|sRvO|Completed Test
+2018-04-06 13:25:55.696435|qTOQ|Passed Check Password: place-point-8
+2018-04-06 13:26:00.773529|qTOQ|Passed Check Password: try-may-91
+2018-04-06 13:26:07.535630|qTOQ|Passed Check Password: begin-help-41
+2018-04-06 13:26:10.672514|qTOQ|Start Memory Password: try-may-91
+2018-04-06 13:26:38.294328|qTOQ|Failed Memory Password: T'try-may-91' == F'try-help-41'
+2018-04-06 13:26:55.017062|qTOQ|Start Memory Password: try-may-91
+2018-04-06 13:27:00.135722|qTOQ|Failed Memory Password: T'try-may-91' == F'try-help-41'
+2018-04-06 13:27:02.879474|qTOQ|Start Memory Password: try-may-91
+2018-04-06 13:27:08.001893|qTOQ|Failed Memory Password: T'try-may-91' == F''
+2018-04-06 13:27:11.785932|qTOQ|Start Memory Password: place-point-8
+2018-04-06 13:27:17.329315|qTOQ|Failed Memory Password: T'place-point-8' == F'try-hep-41'
+2018-04-06 13:27:35.596131|qTOQ|Start Memory Password: place-point-8
+2018-04-06 13:27:42.078776|qTOQ|Failed Memory Password: T'place-point-8' == F'try-help-41'
+2018-04-06 13:27:45.048599|qTOQ|Start Memory Password: place-point-8
+2018-04-06 13:27:54.695748|qTOQ|Failed Memory Password: T'place-point-8' == F'try-help-42'
+2018-04-06 13:27:57.650188|qTOQ|Start Memory Password: begin-help-41
+2018-04-06 13:28:02.118180|qTOQ|Failed Memory Password: T'begin-help-41' == F'try-help-42'
+2018-04-06 13:28:04.739215|qTOQ|Start Memory Password: begin-help-41
+2018-04-06 13:28:08.084099|qTOQ|Failed Memory Password: T'begin-help-41' == F'try-help-41'
+2018-04-06 13:28:09.399074|qTOQ|Start Memory Password: begin-help-41
+2018-04-06 13:28:10.407838|qTOQ|Failed Memory Password: T'begin-help-41' == F''
+2018-04-06 13:28:11.991173|qTOQ|Completed Test
+2018-04-06 13:32:06.763062|zm0s|Failed Check Password: want-be-56
+2018-04-06 13:32:14.980167|zm0s|Passed Check Password: want-be-56
+2018-04-06 13:32:25.308621|zm0s|Passed Check Password: easy-mean-93
+2018-04-06 13:32:30.526526|zm0s|Passed Check Password: possible-know-58
+2018-04-06 13:32:33.137836|zm0s|Start Memory Password: want-be-56
+2018-04-06 13:32:40.864075|zm0s|Failed Memory Password: T'want-be-56' == F'want-be-58'
+2018-04-06 13:32:51.529750|zm0s|Start Memory Password: want-be-56
+2018-04-06 13:33:19.908970|zm0s|Failed Memory Password: T'want-be-56' == F'want-be-58'
+2018-04-06 13:33:22.159949|zm0s|Start Memory Password: want-be-56
+2018-04-06 13:33:27.703742|zm0s|Failed Memory Password: T'want-be-56' == F'show-me-58'
+2018-04-06 13:33:31.056380|zm0s|Start Memory Password: easy-mean-93
+2018-04-06 13:33:33.670529|zm0s|Failed Memory Password: T'easy-mean-93' == F'want-be-58'
+2018-04-06 13:33:34.810806|zm0s|Start Memory Password: easy-mean-93
+2018-04-06 13:33:40.940989|zm0s|Failed Memory Password: T'easy-mean-93' == F'show-me-8'
+2018-04-06 13:33:41.715329|zm0s|Start Memory Password: easy-mean-93
+2018-04-06 13:33:44.392806|zm0s|Failed Memory Password: T'easy-mean-93' == F'asdf'
+2018-04-06 13:33:46.083566|zm0s|Start Memory Password: possible-know-58
+2018-04-06 13:33:56.174031|zm0s|Failed Memory Password: T'possible-know-58' == F'tell-me-49'
+2018-04-06 13:33:56.977703|zm0s|Start Memory Password: possible-know-58
+2018-04-06 13:33:57.611616|zm0s|Failed Memory Password: T'possible-know-58' == F''
+2018-04-06 13:33:57.782695|zm0s|Start Memory Password: possible-know-58
+2018-04-06 13:33:58.807815|zm0s|Failed Memory Password: T'possible-know-58' == F''
+2018-04-06 13:33:59.970328|zm0s|Completed Test
+2018-04-06 13:37:07.717307|mswN|Passed Check Password: best-long-49
+2018-04-06 13:37:15.628000|mswN|Passed Check Password: free-book-64
+2018-04-06 13:37:27.834215|mswN|Passed Check Password: let-old-90
+2018-04-06 13:37:29.324536|mswN|Start Memory Password: free-book-64
+2018-04-06 13:37:39.994721|mswN|Failed Memory Password: T'free-book-64' == F'sasf'
+2018-04-06 13:37:42.302559|mswN|Start Memory Password: free-book-64
+2018-04-06 13:37:43.336330|mswN|Failed Memory Password: T'free-book-64' == F'sf'
+2018-04-06 13:37:44.332064|mswN|Start Memory Password: free-book-64
+2018-04-06 13:37:45.375283|mswN|Failed Memory Password: T'free-book-64' == F'f'
+2018-04-06 13:37:48.323930|mswN|Start Memory Password: best-long-49
+2018-04-06 13:38:04.768596|mswN|Failed Memory Password: T'best-long-49' == F'let-old-64'
+2018-04-06 13:38:07.733169|mswN|Start Memory Password: best-long-49
+2018-04-06 13:38:08.627578|mswN|Failed Memory Password: T'best-long-49' == F''
+2018-04-06 13:38:09.356649|mswN|Start Memory Password: best-long-49
+2018-04-06 13:38:15.431098|mswN|Failed Memory Password: T'best-long-49' == F'free-book-49'
+2018-04-06 13:38:22.683457|mswN|Start Memory Password: let-old-90
+2018-04-06 13:38:31.112364|mswN|Failed Memory Password: T'let-old-90' == F'free-book-90'
+2018-04-06 13:38:32.613696|mswN|Start Memory Password: let-old-90
+2018-04-06 13:38:33.105923|mswN|Failed Memory Password: T'let-old-90' == F'sf'
+2018-04-06 13:38:33.926494|mswN|Start Memory Password: let-old-90
+2018-04-06 13:38:34.948400|mswN|Failed Memory Password: T'let-old-90' == F'sf'
+2018-04-06 13:38:35.954587|mswN|Completed Test
+2018-04-06 13:40:38.474856|0mCe|Passed Check Password: word-hear-32
+2018-04-06 13:40:53.363478|0mCe|Passed Check Password: problem-economic-93
+2018-04-06 13:40:58.442694|0mCe|Passed Check Password: put-mr-18
+2018-04-06 13:41:17.507163|0mCe|Start Memory Password: problem-economic-93
+2018-04-06 13:41:27.415686|0mCe|Failed Memory Password: T'problem-economic-93' == F'problem-economic-98'
+2018-04-06 13:41:40.912323|0mCe|Start Memory Password: problem-economic-93
+2018-04-06 13:41:54.429845|0mCe|Failed Memory Password: T'problem-economic-93' == F'problem-economic-92'
+2018-04-06 13:41:59.868736|0mCe|Start Memory Password: problem-economic-93
+2018-04-06 13:42:06.283316|0mCe|Passed Memory Password: T'problem-economic-93' == F'problem-economic-93'
+2018-04-06 13:42:11.554843|0mCe|Start Memory Password: put-mr-18
+2018-04-06 13:42:18.865792|0mCe|Failed Memory Password: T'put-mr-18' == F'big-mr-18'
+2018-04-06 13:42:23.737099|0mCe|Start Memory Password: put-mr-18
+2018-04-06 13:42:36.154831|0mCe|Failed Memory Password: T'put-mr-18' == F'let-mr-18'
+2018-04-06 13:42:36.952135|0mCe|Start Memory Password: put-mr-18
+2018-04-06 13:42:37.521025|0mCe|Failed Memory Password: T'put-mr-18' == F''
+2018-04-06 13:42:39.821637|0mCe|Start Memory Password: word-hear-32
+2018-04-06 13:42:50.596389|0mCe|Passed Memory Password: T'word-hear-32' == F'word-hear-32'
+2018-04-06 13:42:51.866103|0mCe|Completed Test
+2018-04-06 13:49:53.405095|RR4F|Passed Check Password: business-world-48
+2018-04-06 13:50:01.278331|RR4F|Passed Check Password: only-human-15
+2018-04-06 13:50:06.640676|RR4F|Passed Check Password: clear-call-20
+2018-04-06 13:50:08.767480|RR4F|Start Memory Password: only-human-15
+2018-04-06 13:50:15.005111|RR4F|Passed Memory Password: T'only-human-15' == F'only-human-15'
+2018-04-06 13:50:16.351514|RR4F|Start Memory Password: clear-call-20
+2018-04-06 13:50:20.943054|RR4F|Failed Memory Password: T'clear-call-20' == F''
+2018-04-06 13:50:22.358044|RR4F|Start Memory Password: clear-call-20
+2018-04-06 13:50:24.089226|RR4F|Failed Memory Password: T'clear-call-20' == F''
+2018-04-06 13:50:24.342315|RR4F|Start Memory Password: clear-call-20
+2018-04-06 13:50:24.690794|RR4F|Failed Memory Password: T'clear-call-20' == F''
+2018-04-06 13:50:25.732639|RR4F|Start Memory Password: business-world-48
+2018-04-06 13:50:30.254400|RR4F|Passed Memory Password: T'business-world-48' == F'business-world-48'
+2018-04-06 13:50:31.054363|RR4F|Completed Test
