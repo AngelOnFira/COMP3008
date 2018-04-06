@@ -7,7 +7,7 @@
 # Imports
 
 from passwordGen import genPassword
-from IPython.display import clear_output
+import os
 import random, string
 import datetime
 from random import shuffle
@@ -40,7 +40,6 @@ def checkInput(realPassword, serviceName):
         password = raw_input()
         if (password == realPassword):
             logData("Passed Check Password: " + realPassword)
-            logData
             break
         logData("Failed Check Password: " + realPassword)
 
@@ -81,7 +80,7 @@ def runQuestions():
     print "\n\nNow you will be tested on each password. Be aware\nthat the passwords may not be in the same order.\nPress enter to continue"
     wait = raw_input()
 
-    clear_output()
+    os.system('clear')
 
     checkMemory = [
         ["Hooli", questions[0]],
@@ -103,10 +102,10 @@ def runQuestions():
             print "\nThat password was not correct. Try again."
             print "Press enter to continue"
             wait = raw_input()
-            clear_output()
+            os.system('clear')
         print "Press enter to continue"
         wait = raw_input()
-        clear_output()
+        os.system('clear')
     logData("Completed Test")
     print "You have completed the test. Thank you for your participation."
 
